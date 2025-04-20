@@ -513,3 +513,11 @@ h6::before {
 [data-theme="dark"] #snow{
   display: none;
 }
+#welcome-info {
+  background: linear-gradient(45deg, #b9f4f3, #e3fbf9);
+  border-radius: 18px;
+  padding: 8px 8px;
+}
+[data-theme="dark"] #welcome-info {
+  background: #212121;
+}
